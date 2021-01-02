@@ -1,0 +1,69 @@
+.impu-form-links-reg {
+  display: none !important;
+}
+.impu-form-line-fr .impu-form-line-fr {
+  margin: 0 !important;
+  border: 1px solid rgba(0, 0, 0, 0.2)!important;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2) !important;
+}
+.ihc-login-template-11 .impu-form-line-fr {
+  border-radius: 0.5rem !important;
+}
+
+.impu-form-line-fr i {
+  color: black !important;
+}
+.ihc-login-template-11 {
+  font-family: "Amiko", Sans-serif;
+  color: white !important;
+  margin: 10px auto;
+  padding: 0;
+  text-align: center;
+  box-sizing: border-box;
+  display: block;
+
+  border-radius: 3px;
+  width: 460px;
+  max-width: 100%;
+  background: rgba(255, 255, 255, 0.04);
+  border-radius: 0.5rem;
+  border: 0.25px solid rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(3.5px);
+  -webkit-backdrop-filter: blur(3.5px);
+  font-family: Amiko, sans-serif;
+
+  font-size: 15px;
+}
+
+.ihc-login-template-11 .impu-form-label-remember {
+  color: white;
+}
+
+.ihc-login-template-11 .fa-ihc {
+  color: white;
+}
+
+input,
+textarea,
+button,
+.button,
+.faux-button,
+.faux-button.more-link,
+.wp-block-button__link,
+.wp-block-file__button {
+  font-family: Amiko;
+}
+
+.ihc-login-template-11 .impu-form-submit input {
+  text-transform: capitalize;
+  color: white !important;
+  background: linear-gradient(
+    89.08deg,
+    #00c5db 28.53%,
+    #434b96 83.78%
+  );
+  width: 100% !important;
+  border: transparent;
+
+  border-radius: 0.5rem !important;
+}
